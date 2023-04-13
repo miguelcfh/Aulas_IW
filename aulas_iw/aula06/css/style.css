@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+
+.um{
+    color: white;
+}
+.dois{
+    color: white;
+}
+#titulo{
+    color: white;
+    border: 2px white;
+}
